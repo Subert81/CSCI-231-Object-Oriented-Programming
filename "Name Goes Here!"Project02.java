@@ -3,14 +3,14 @@
  * Program that asks the user to input a change between 1 and 99 cents. The program
  * then will display it in amounts of quarters, dime, nickels and pennies
  * 
- * Steven Ubert
+ * "Name Goes Here!"
  * Project02
  * 02/01/2021
  */
 //Import the classes
 import java.util.Scanner;
 
-    public class StevenUbertProject02{
+    public class "Name Goes Here!"Project02{
         //Method of randomly generated number between 1 and 99
         public static double getRandom(double min,double max){
             double change = (int)(Math.random()*((max-min)+1))+min;
