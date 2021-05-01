@@ -2,7 +2,7 @@
  /**
  * Prints "Hello, World!" and "This is my first Java Program" to the console.
  *
- * @author Steven Ubrt
+ * @author "Name Goes Here!"
  * @version 1/21/2021
  */
 public class StevenUbertProject01
