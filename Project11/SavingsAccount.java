@@ -12,7 +12,7 @@
     For instane, 6% is 0.06. The students must write a main function to test these accounts. 
     In main function, polymorphism must be used to handle a collection of accounts.
 
- * @author Steven Ubert
+ * @author "Name Goes Here!"
  * @version 4/27/2021
  */
 public class SavingsAccount extends Account{
