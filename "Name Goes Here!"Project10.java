@@ -15,12 +15,12 @@
  *
  *
  *
- * @author Steve Ubert
+ * @author "Name Goes Here!"
  * @version 4/13/2021
  */
 
 
-public class SteveUbertProject10{
+public class "Name Goes Here!"Project10{
     public static void main(String[] args){
     
         // Create to char arrays
