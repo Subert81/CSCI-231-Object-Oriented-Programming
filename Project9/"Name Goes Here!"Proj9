@@ -1,13 +1,13 @@
 
 /**
- * Write a description of class StevenUbertProject09 here.
+ * Write a description of class "Name Goes Here!"Project09 here.
  *
  * @author (your name)
  * @version (a version number or a date)
  */
 import java.util.Scanner;
 
-public class StevenUbertProject09
+public class "Name Goes Here!"Project09
 {
     public static void main(String args[])
    {
