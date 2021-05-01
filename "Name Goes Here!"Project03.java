@@ -2,14 +2,14 @@
  * If else and switch statements to assign letter grades based off user input
  * 
  *
- * @author Steve Ubert
+ * @author "Name Goes Here!"
  * @version 2/15/2021
  */
 
 //Import the classes
 import java.util.Scanner;
 //create class for this code
-public class StevenUbertProject03
+public class "Name Goes Here!"Project03
 {
     public static void main(String [] args)
     {
