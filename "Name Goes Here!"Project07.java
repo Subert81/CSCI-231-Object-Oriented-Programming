@@ -5,7 +5,7 @@
  * Apply select sort algorithm
  * Apply array iteration skill
  *
- * @author Steven Ubert
+ * @author "Name Goes Here!"
  * @version 3/21/2021
  */
 
@@ -13,7 +13,7 @@ import java.lang.Math;
 import java.util.Random;
 import java.util.Scanner;
 
-public class StevenUbertProject07 {
+public class "Name Goes Here!"Project07 {
   
     public static int randomNumberInRange(int min, int max) 
     {
