@@ -16,13 +16,13 @@
  * 
  * Write a program that prompts the user to enter a number between 0 and 511 and displays
  * the corresponding matrix with the character H and T.
- * @author Steven Ubert
+ * @author "Name Goes Here!"
  * @version 3/27/2021
  */
 
 import java.util.Scanner;
 
-public class StevenUbertProject08
+public class "Name Goes Here!"Project08
 {
    public static void main (String[] args)
    {
