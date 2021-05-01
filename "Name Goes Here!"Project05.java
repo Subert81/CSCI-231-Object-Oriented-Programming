@@ -1,15 +1,15 @@
 
 /**
- * Write a description of class StevenUbertProject05 here.
+ * Write a description of class "Name Goes Here!"Project05 here.
  *
- * @author Steve Ubert
+ * @author "Name Goes Here!"
  * @version 3/4/2021
  */
 
 import java.util.Scanner;
 /*
 // 1 using a for structure   
-public class StevenUbertProject05{
+public class "Name Goes Here!"Project05{
     
     public static void main(String[]args){
             // create a Scanner Object 
@@ -47,7 +47,7 @@ public class StevenUbertProject05{
 }
 
 //2 using a for structure with a while statement
-public class StevenUbertProject05{
+public class "Name Goes Here!"Project05{
     
     public static void main(String[]args){
             // create a Scanner Object 
@@ -87,7 +87,7 @@ public class StevenUbertProject05{
 }
 */
 //3 Using do while to repeat things that at least be done one time
-public class StevenUbertProject05{
+public class "Name Goes Here!"Project05{
     
     public static void main(String[]args){
             // create a Scanner Object 
