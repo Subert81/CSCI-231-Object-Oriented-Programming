@@ -10,7 +10,7 @@
  * This way you need to design the algorithm.
  *
  *
- * @author Steve Ubert
+ * @author "Name Goes Here!"
  * @version 2/21/2021
  */
 /*
@@ -28,7 +28,7 @@ public class StevenUbertProject04{
 */
 //Part2-hard way
 //create class, create algorithm from scratch
-public class StevenUbertProject04{
+public class "Name Goes Here!"Project04{
     public static void main(String[] args) {
         //set input
         String binaryInput = "10011110";
