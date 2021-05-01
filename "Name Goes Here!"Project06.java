@@ -8,12 +8,12 @@
  *      which count the number of English letter c   
  *      (not case sensitive) in given String s. If c is not an English letter, returns -1
  *
- * @author Steven Ubert
+ * @author "Name Goes Here!"
  * @version 3/11/2021
  */
 
 import java.util.Scanner;
-public class StevenUbertProject06
+public class "Name Goes Here!"Project06
 {
     public static void main(String[] args) 
     {
